@@ -1,1 +1,0 @@
-print("estos son integrales")
