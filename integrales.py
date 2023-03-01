@@ -1,1 +1,2 @@
-print("esto son integrales modificamos con conflicto")
+print("esto son integrales muy chula")
+print("Esto va ha entrar en conflicto")
