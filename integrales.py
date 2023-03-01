@@ -1,1 +1,1 @@
-print("estos son integrales")
+print("esto son integrales")
